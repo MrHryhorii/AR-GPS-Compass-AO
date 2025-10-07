@@ -39,7 +39,7 @@ A location‑aware AR prototype that places a 3D campus model at real‑world co
 
 ![Gyroscope camera control — code & camera setup](DemoImg/10.png)
 
-![On‑device AR overlay](DemoImg/11.png)
+![On‑device AR overlay](DemoImg/12.png)
 
 ![On‑device AR overlay](DemoImg/13.png)
 

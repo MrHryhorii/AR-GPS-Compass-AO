@@ -28,7 +28,7 @@ A location‑aware AR prototype that places a 3D campus model at real‑world co
 
 ![Site plan — paths, fence, and landscape layout](DemoImg/4.png)
 
-![On‑device AR overlay — GPS/compass‑driven placement (distance, FPS, LAT/LON shown)](DemoImg/12.png)
+![On‑device AR overlay — GPS/compass‑driven placement (distance, FPS, LAT/LON shown)](DemoImg/11.png)
 
 <details>
 <summary>More views</summary>
